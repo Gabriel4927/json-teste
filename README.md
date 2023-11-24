@@ -152,3 +152,10 @@ EN Ver: Em breve.
 
 [^1]: Minério Lúmen é usado para upar o nivel da lanterna.
 [^2]: Já ter feito todas as missões de enkanomiya antes de ir atras dos padrões de chave. Onde usar os padrões de chave: https://youtu.be/_ES5BTwIp_M?si=IapwxOCtptDzCO-A
+
+## Downloads
+
+
+
+## Downloads
+
