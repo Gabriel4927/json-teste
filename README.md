@@ -1,3 +1,28 @@
+# Inazuma
+
+| Data da Adição | Icon                                         | Nome              | Região    | Author  |
+| --------------- | -------------------------------------------- | ------------------ | --------- | -------- |
+| 24/11/2023 |![Baga de Espinheiro](icons/especialiadades/Baga_de_Espinheiro.webp) | [Baga de Espinheiro](https://raw.githubusercontent.com/Gabriel4927/json-teste/main/download/Especialidades/Baga_de_Espinheiro.rar?raw=true) | Regiao | Gabszap |
+| 24/11/2023 | ![Campanula_Lumidouce](icons/especialiadades/LUmidouce_Bell.webp) | [Campanula Lumidouce](https://raw.githubusercontent.com/Gabriel4927/json-teste/main/download/Especialidades/Campanula_Lumidouce.rar?raw=true) | Regiao | Gabszap |
+| 24/11/2023 | ![Cecillia](icons/especialiadades/Cecilia.webp) | [Cecillia](https://raw.githubusercontent.com/Gabriel4927/json-teste/main/download/Especialidades/Cecillia.rar?raw=true) | Regiao | Gabszap |
+| 24/11/2023 | ![Cogumelo_Philanemo](icons/especialiadades/Cogumelo_Philanemo.webp) | [Cogumelo Philanemo](https://raw.githubusercontent.com/Gabriel4927/json-teste/main/download/Especialidades/Cogumelo_Philanemo.rar?raw=true) | Regiao | Gabszap |
+| 24/11/2023 | ![Cogumelo_Rukkhashava](icons/especialiadades/Cogumelo_Rukkhashava.webp) | [Cogumelo Rukkhashava](https://raw.githubusercontent.com/Gabriel4927/json-teste/main/download/Especialidades/Cogumelo_Rukkhashava.rar?raw=true) | Regiao | Gabszap |
+| 24/11/2023 | ![Concha_Estrelada](icons/especialiadades/Conchas_Estreladas.webp) | [Concha Estrelada](https://raw.githubusercontent.com/Gabriel4927/json-teste/main/download/Especialidades/Concha_Estrelada.rar?raw=true) | Regiao | Gabszap |
+| 24/11/2023 | ![CorLapis](icons/especialiadades/Cor_Lapis.webp) | [Cor Lapis](https://raw.githubusercontent.com/Gabriel4927/json-teste/main/download/Especialidades/CorLapis.rar?raw=true) | Regiao | Gabszap |
+| 24/11/2023 | ![Dendrobium](icons/especialiadades/Dendrobio.webp) | [Dendrobium](https://raw.githubusercontent.com/Gabriel4927/json-teste/main/download/Especialidades/Dendrobium.rar?raw=true) | Regiao | Gabszap |
+| 24/11/2023 | ![Erva_Naku](icons/especialiadades/Erva_Naku.webp) | [Erva Naku](https://raw.githubusercontent.com/Gabriel4927/json-teste/main/download/Especialidades/Erva_Naku.rar?raw=true) | Regiao | Gabszap |
+| 24/11/2023 | ![Escaravelho](icons/especialiadades/Escaravelho_Dourado.webp) | [Escaravelho](https://raw.githubusercontent.com/Gabriel4927/json-teste/main/download/Especialidades/Escaravelho.rar?raw=true) | Regiao | Gabszap |
+
+
+
+
+
+
+
+
+
+
+
 # JSON Paradise
 
 Compilado de teleportes para Genshin Impact feito para reduzir o desperdício de tempo em rotas repetitivas e melhorando a eficiência de sua experiência de jogo.
