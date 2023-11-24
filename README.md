@@ -199,3 +199,6 @@ EN Ver: Em breve.
 ![Unidade_de_Subdeteccão](icons/especialiadades/Unidade_de_Subdetec��o.webp) | [Unidade_de_Subdetecão](https://raw.githubusercontent.com/Gabriel4927/json-teste/main/download/Especialidades/Unidade_de_Subdetec%C3%A7%C3%A3o.rar?raw=true)
 ![Valberry](icons/especialiadades/Valberry.webp) | [Valberry](https://raw.githubusercontent.com/Gabriel4927/json-teste/main/download/Especialidades/Valberry.rar?raw=true)
 ![Violeta](icons/especialiadades/Violeta.webp) | [Violeta](https://raw.githubusercontent.com/Gabriel4927/json-teste/main/download/Especialidades/Violeta.rar?raw=true)
+
+
+![Baga_de_Espinheiro](icons/especialiadades/Baga_de_Espinheiro.webp) | [baga](https://raw.githubusercontent.com/Gabriel4927/json-teste/main/download/Especialidades/Baga_de_Espinheiro.rar?raw=true)
