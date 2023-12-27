@@ -63,6 +63,10 @@ EN Ver: Em breve.
   - [Como procurar na pagina?](#como-procurar-na-pagina)
   - [Como usar os tp](#como-usar-os-tps)
 - [**Exploração**](#exploração)
+  - texto
+  - texto
+  - texto
+- [**Farming**](#farming)
   - [Oculis](#oculis)
   - [Especialidades](#especialidades)
 
@@ -87,11 +91,15 @@ EN Ver: Em breve.
 > Por exemplo, pesquise “doce” ou “flor” em vez de “flor-doce”.
 
 # Exploração
+----
+inserir texto
+
+# Farming
 -----
 ## Oculis
 > NOTAS:
 >
-> Atualmente há 150 hydroculos no mapa (Genshin 4.1)
+> Atualmente há 216 hydroculos no mapa (Genshin 4.2)
 >
 > (Por favor ja ter terminado todas as quests da espinha antes) Há 77 calcedônias para pegar no mundo, o resto tem que ser pego no "desejo carmesim" upando a arvore da espinha do dragão
 > 
@@ -193,6 +201,7 @@ EN Ver: Em breve.
 | 11/10/2023      | ![Rosa](icons/especialiadades/Rainbow_Rose.webp) | [Rosa Arco-Iris](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Rosa_ArcoIris.rar) | Fontaine | Gabszap |
 | 11/10/2023      | ![Lumitoile](icons/especialiadades/Lumitoile.webp) | [Lumitoile](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Lumitoile.rar) | Fontaine | Gabszap |
 | 11/10/2023      | ![unidade](icons/especialiadades/Subdetection_Unit.webp) | [Unidade de Subdetecção](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Unidade_de_Subdetecção.rar) | Fontaine | Gabszap |
+| 08/11/2023      | ![Furina](icons/especialiadades/Flordaluzdolago.webp) | [Flor da Luz do Lago](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/FlorDaLuzDoLago.rar) | Fontaine | Gabszap
 
 [^1]: Minério Lúmen é usado para upar o nivel da lanterna.
 [^2]: Já ter feito todas as missões de enkanomiya antes de ir atras dos padrões de chave. Onde usar os padrões de chave: https://youtu.be/_ES5BTwIp_M?si=IapwxOCtptDzCO-A
