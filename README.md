@@ -47,10 +47,7 @@
 Compilado de teleportes para Genshin Impact feito para reduzir o desperdício de tempo em rotas repetitivas e melhorando a eficiência de sua experiência de jogo.
 
 ---
-Ultima Atualização: 
-
----
-EN Ver: Em breve.
+Ultima Atualização:
 
 ---
 
@@ -63,7 +60,7 @@ EN Ver: Em breve.
   - [Como procurar na pagina?](#como-procurar-na-pagina)
   - [Como usar os tp](#como-usar-os-tps)
 - [**Exploração**](#exploração)
-  - texto
+  - [Baus](#baus)
   - texto
   - texto
 - [**Farming**](#farming)
@@ -86,13 +83,26 @@ EN Ver: Em breve.
 # Como procurar na pagina?
 > Pressione "CTRL + F" e digite na caixa oque você quer
 >
-> Para uma pesquisa com mais precisão não inclua "-"
+> Para uma pesquisa com mais precisão não inclua hífen ( - )
 >
 > Por exemplo, pesquise “doce” ou “flor” em vez de “flor-doce”.
 
 # Exploração
 ----
-inserir texto
+
+# Baus
+| Data da adição    | Icon                                             | Nome                 |    Author           |
+| ---------- | ----------------------------------------------------- | --------------------- | -----------------------|
+| 09/11/23   | ![Bau](icons/exploracao/CommonChest.png)              | [Mondstadt](https://raw.githubusercontent.com/gabszap/json-teste/main/download/Exploracao/Mondstadt.rar?raw=true)                  | Gabszap |
+| 09/11/23   | ![Bau](icons/exploracao/CommonChest.png)              | [Liyue](https://raw.githubusercontent.com/gabszap/json-teste/main/download/Exploracao/Liyue.rar?raw=true)                      | Gabszap |
+| 09/11/23   | ![Bau](icons/exploracao/CommonChest.png)              | [Inazuma](https://raw.githubusercontent.com/gabszap/json-teste/main/download/Exploracao/Inazuma.rar?raw=true)                    | Gabszap |
+| 09/11/23   | ![Bau](icons/exploracao/CommonChest.png)              | [Sumeru](https://raw.githubusercontent.com/gabszap/json-teste/main/download/Exploracao/Sumeru.rar?raw=true)                     | Gabszap |
+| 09/11/23   | ![Bau](icons/exploracao/CommonChest.png)              | [Fontaine 4.0-4.2](https://raw.githubusercontent.com/gabszap/json-teste/main/download/Exploracao/Fontaine%204.0-4.2.rar?raw=true)           | Gabszap |
+| 09/11/23   | ![Bau](icons/exploracao/CommonChest.png)              | [Enkanomiya](https://raw.githubusercontent.com/gabszap/json-teste/main/download/Exploracao/Enkanomiya.rar?raw=true)                 | Gabszap |
+| 09/11/23   | ![Bau](icons/exploracao/CommonChest.png)              | [Espinha do Dragão](https://raw.githubusercontent.com/gabszap/json-teste/main/download/Exploracao/Dragonspine.rar?raw=true)             | Gabszap      |
+| 09/11/23   | ![Bau](icons/exploracao/CommonChest.png)              | [Despenhadeiro](https://raw.githubusercontent.com/gabszap/json-teste/main/download/Exploracao/The%20Chasm%201.rar?raw=true)              | Gabszap |
+| 09/11/23   | ![Bau](icons/exploracao/CommonChest.png)              | [Despenhadeiro Subterraneo](https://raw.githubusercontent.com/gabszap/json-teste/main/download/Exploracao/The%20Chasm%202.rar?raw=true)  | Gabszap |
+
 
 # Farming
 -----
