@@ -71,8 +71,8 @@ Ultima Atualização:
 > 
 > Há informações extras nos numeros pequenos do lado do nome do item.
 
-| Icon                                             | Nome               | Região                 |
-| ---------- | ----------------------------------------------------- | --------------------- | --------------------- |
+| Icon                                             | Nome               | Região          |
+| ---------- | ----------------------------------------------------- | --------------------- |
 | ![Anemoculus](icons/icon-oculis/Anemoculus.png)     |[Anemoculus](https://github.com/Gabriel4927/json-paradise/raw/main/download/Anemoculus.rar)        |Mondstadt               | 
 | ![Geoculus](icons/icon-oculis/Geoculus.png)         |[Geoculus](https://github.com/Gabriel4927/json-paradise/raw/main/download/Geoculus.rar)          |Liyue                   | 
 | ![Electroculus](icons/icon-oculis/Electroculus.png) |[Electroculus](https://github.com/Gabriel4927/json-paradise/raw/main/download/Electroculus.rar)      |Inazuma                 | 
