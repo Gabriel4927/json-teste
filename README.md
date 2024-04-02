@@ -47,17 +47,17 @@ Ultima Atualização:
 ----
 
 # Baus
-| Icon                  | Nome                 |    Author           |
-| ---------- | ----------------------------------------------------- | --------------------- |
-| ![Bau](icons/exploracao/CommonChest.png)              | [Mondstadt](https://raw.githubusercontent.com/gabszap/json-teste/main/download/Exploracao/Mondstadt.rar?raw=true)                  | Gabszap |
-| ![Bau](icons/exploracao/CommonChest.png)              | [Liyue](https://raw.githubusercontent.com/gabszap/json-teste/main/download/Exploracao/Liyue.rar?raw=true)                      | Gabszap |
-| ![Bau](icons/exploracao/CommonChest.png)              | [Inazuma](https://raw.githubusercontent.com/gabszap/json-teste/main/download/Exploracao/Inazuma.rar?raw=true)                    | Gabszap |
-| ![Bau](icons/exploracao/CommonChest.png)              | [Sumeru](https://raw.githubusercontent.com/gabszap/json-teste/main/download/Exploracao/Sumeru.rar?raw=true)                     | Gabszap |
-| ![Bau](icons/exploracao/CommonChest.png)              | [Fontaine 4.0-4.2](https://raw.githubusercontent.com/gabszap/json-teste/main/download/Exploracao/Fontaine%204.0-4.2.rar?raw=true)           | Gabszap |
-| ![Bau](icons/exploracao/CommonChest.png)              | [Enkanomiya](https://raw.githubusercontent.com/gabszap/json-teste/main/download/Exploracao/Enkanomiya.rar?raw=true)                 | Gabszap |
-| ![Bau](icons/exploracao/CommonChest.png)              | [Espinha do Dragão](https://raw.githubusercontent.com/gabszap/json-teste/main/download/Exploracao/Dragonspine.rar?raw=true)             | Gabszap      |
-| ![Bau](icons/exploracao/CommonChest.png)              | [Despenhadeiro](https://raw.githubusercontent.com/gabszap/json-teste/main/download/Exploracao/The%20Chasm%201.rar?raw=true)              | Gabszap |
-| ![Bau](icons/exploracao/CommonChest.png)              | [Despenhadeiro Subterraneo](https://raw.githubusercontent.com/gabszap/json-teste/main/download/Exploracao/The%20Chasm%202.rar?raw=true)  | Gabszap |
+| Icon                  | Nome                 |    
+| ---------- | ----------------------------------- | 
+| ![Bau](icons/exploracao/CommonChest.png)              | [Mondstadt](https://raw.githubusercontent.com/gabszap/json-teste/main/download/Exploracao/Mondstadt.rar?raw=true)| 
+| ![Bau](icons/exploracao/CommonChest.png)              | [Liyue](https://raw.githubusercontent.com/gabszap/json-teste/main/download/Exploracao/Liyue.rar?raw=true)| 
+| ![Bau](icons/exploracao/CommonChest.png)              | [Inazuma](https://raw.githubusercontent.com/gabszap/json-teste/main/download/Exploracao/Inazuma.rar?raw=true)| 
+| ![Bau](icons/exploracao/CommonChest.png)              | [Sumeru](https://raw.githubusercontent.com/gabszap/json-teste/main/download/Exploracao/Sumeru.rar?raw=true)| 
+| ![Bau](icons/exploracao/CommonChest.png)              | [Fontaine 4.0-4.2](https://raw.githubusercontent.com/gabszap/json-teste/main/download/Exploracao/Fontaine%204.0-4.2.rar?raw=true)| 
+| ![Bau](icons/exploracao/CommonChest.png)              | [Enkanomiya](https://raw.githubusercontent.com/gabszap/json-teste/main/download/Exploracao/Enkanomiya.rar?raw=true)| 
+| ![Bau](icons/exploracao/CommonChest.png)              | [Espinha do Dragão](https://raw.githubusercontent.com/gabszap/json-teste/main/download/Exploracao/Dragonspine.rar?raw=true)| 
+| ![Bau](icons/exploracao/CommonChest.png)              | [Despenhadeiro](https://raw.githubusercontent.com/gabszap/json-teste/main/download/Exploracao/The%20Chasm%201.rar?raw=true)| 
+| ![Bau](icons/exploracao/CommonChest.png)              | [Despenhadeiro Subterraneo](https://raw.githubusercontent.com/gabszap/json-teste/main/download/Exploracao/The%20Chasm%202.rar?raw=true)|
 
 
 # Farming
