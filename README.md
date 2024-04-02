@@ -47,8 +47,8 @@ Ultima Atualização:
 ----
 
 # Baus
-| Icon                                             | Nome                 |    Author           |
-| ---------- | ----------------------------------------------------- | --------------------- | -----------------------|
+| Icon                  | Nome                 |    Author           |
+| ---------- | ----------------------------------------------------- | --------------------- |
 | ![Bau](icons/exploracao/CommonChest.png)              | [Mondstadt](https://raw.githubusercontent.com/gabszap/json-teste/main/download/Exploracao/Mondstadt.rar?raw=true)                  | Gabszap |
 | ![Bau](icons/exploracao/CommonChest.png)              | [Liyue](https://raw.githubusercontent.com/gabszap/json-teste/main/download/Exploracao/Liyue.rar?raw=true)                      | Gabszap |
 | ![Bau](icons/exploracao/CommonChest.png)              | [Inazuma](https://raw.githubusercontent.com/gabszap/json-teste/main/download/Exploracao/Inazuma.rar?raw=true)                    | Gabszap |
@@ -71,8 +71,8 @@ Ultima Atualização:
 > 
 > Há informações extras nos numeros pequenos do lado do nome do item.
 
-|| Icon                                             | Nome               | Região                 | Author  |
-| ---------- | ----------------------------------------------------- | --------------------- | --------------------- | ------------- |
+| Icon                                             | Nome               | Região                 | Author    |
+| ---------- | ----------------------------------------------------- | --------------------- | --------------------- |
 | ![Anemoculus](icons/icon-oculis/Anemoculus.png)     |[Anemoculus](https://github.com/Gabriel4927/json-paradise/raw/main/download/Anemoculus.rar)        |Mondstadt               | Gabszap |
 | ![Geoculus](icons/icon-oculis/Geoculus.png)         |[Geoculus](https://github.com/Gabriel4927/json-paradise/raw/main/download/Geoculus.rar)          |Liyue                   | Gabszap |
 | ![Electroculus](icons/icon-oculis/Electroculus.png) |[Electroculus](https://github.com/Gabriel4927/json-paradise/raw/main/download/Electroculus.rar)      |Inazuma                 | Gabszap |
@@ -108,8 +108,8 @@ Ultima Atualização:
 
 # Mondstadt
 
-|Icon                                         | Nome              | Região     | Author  |
-| --------------- | -------------------------------------------- | ------------------ | ---------- | -------- |
+| Icon                                         | Nome              | Região     | Author  |
+| --------------- | -------------------------------------------- | ------------------ | ---------- |
 | ![Cecilia](icons/especialiadades/Cecilia.webp) | [Cecilia](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Cecillia.rar) | Mondstadt | Gabszap |
 | ![Cogumelo](icons/especialiadades/Cogumelo_Philanemo.webp) | [Cogumelo Philanemo](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Cogumelo_Philanemo.rar) | Mondstadt | Gabszap |
 | ![Gancho](icons/especialiadades/Gancho_do_Lobo.webp) | [Gancho do Lobo](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Gancho_do_lobo.rar) | Mondstadt | Gabszap |
@@ -120,8 +120,8 @@ Ultima Atualização:
 
 # Liyue
 
-|Icon                                         | Nome              | Região   | Author  |
-| --------------- | -------------------------------------------- | ------------------ | -------- | -------- |
+| Icon                                         | Nome              | Região   | Author  |
+| --------------- | -------------------------------------------- | ------------------ | -------- |
 | ![Concha](icons/especialiadades/Conchas_Estreladas.webp) | [Concha Estrelada](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Concha_Estrelada.rar) | Liyue | Gabszap |
 | ![Lapis](icons/especialiadades/Cor_Lapis.webp) | [Cor Lapis](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/CorLapis.rar) | Liyue | Gabszap |
 | ![Seda](icons/especialiadades/Flor_de_Seda.webp) | [Flor de Seda](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Flor_de_seda.rar) | Liyue | Gabszap |
@@ -133,8 +133,8 @@ Ultima Atualização:
 
 # Inazuma
 
-|Icon                                         | Nome              | Região    | Author  |
-| --------------- | -------------------------------------------- | ------------------ | --------- | -------- |
+| Icon                                         | Nome              | Região    | Author  |
+| --------------- | -------------------------------------------- | ------------------ | --------- |
 | ![Dendrobio](icons/especialiadades/Dendrobio.webp) | [Dendrobio](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Dendrobium.rar) | Inazuma | Gabszap |
 | ![Erva Naku](icons/especialiadades/Erva_Naku.webp) | [Erva Naku](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Erva_Naku.rar) | Inazuma | Gabszap |
 | ![Fruto Tenkumo](icons/especialiadades/Fruto_Tenkumo.webp) | [Fruto Tenkumo](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Fruto_Tenkumo.rar) | Inazuma | Gabszap |
@@ -147,8 +147,8 @@ Ultima Atualização:
 
 # Sumeru
 
-|Icon                                         | Nome              | Região  | Author  |
-| --------------- | -------------------------------------------- | ------------------ | ------- | -------- |
+| Icon                                         | Nome              | Região  | Author  |
+| --------------- | -------------------------------------------- | ------------------ | ------- |
 | ![Baga de espinheiro](icons/especialiadades/Baga_de_Espinheiro.webp) | [Baga de espinheiro](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Baga_de_Espinheiro.rar) | Sumeru | Gabszap |
 | ![Escaravelho dourado](icons/especialiadades/Escaravelho_Dourado.webp) | [Escaravelho dourado](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Escaravelho.rar) | Sumeru | Gabszap |
 | ![Flor do luto](icons/especialiadades/Flor_do_Luto.webp) | [Flor do luto](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Flor_do_Luto.rar) | Sumeru | Gabszap |
@@ -160,8 +160,8 @@ Ultima Atualização:
 # Fontaine
 > Atualmente só tem essas especialidades.
 
-|Icon                                         | Nome              | Região   | Author  |
-| --------------- | -------------------------------------------- | ------------------ | -------- | -------- |
+| Icon                                         | Nome              | Região   | Author  |
+| --------------- | -------------------------------------------- | ------------------ | -------- |
 | ![Flor](icons/especialiadades/Romaritime_Flower.webp) | [Flor Rociomarinha](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Flor_Rociomarinha.rar) | Fontaine | Gabszap |
 | ![Lumidoce](icons/especialiadades/LUmidouce_Bell.webp) | [Campânula Lumidouce](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Campanula_Lumidouce.rar) | Fontaine | Gabszap |
 | ![Rosa](icons/especialiadades/Rainbow_Rose.webp) | [Rosa Arco-Iris](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Rosa_ArcoIris.rar) | Fontaine | Gabszap |
