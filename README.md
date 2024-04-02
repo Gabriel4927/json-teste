@@ -67,22 +67,22 @@ Ultima Atualização:
 >
 > Atualmente há 216 hydroculos no mapa (Genshin 4.2)
 >
-> (Por favor ja ter terminado todas as quests da espinha antes) Há 77 calcedônias para pegar no mundo, o resto tem que ser pego no "desejo carmesim" upando a arvore da espinha do dragão
+> Espinha ate lvl 8 o restante é so missao a cada 3 dias para pegar 5 
 > 
 > Há informações extras nos numeros pequenos do lado do nome do item.
 
-| Icon                                             | Nome               | Região                 | Author    |
+| Icon                                             | Nome               | Região                 |
 | ---------- | ----------------------------------------------------- | --------------------- | --------------------- |
-| ![Anemoculus](icons/icon-oculis/Anemoculus.png)     |[Anemoculus](https://github.com/Gabriel4927/json-paradise/raw/main/download/Anemoculus.rar)        |Mondstadt               | Gabszap |
-| ![Geoculus](icons/icon-oculis/Geoculus.png)         |[Geoculus](https://github.com/Gabriel4927/json-paradise/raw/main/download/Geoculus.rar)          |Liyue                   | Gabszap |
-| ![Electroculus](icons/icon-oculis/Electroculus.png) |[Electroculus](https://github.com/Gabriel4927/json-paradise/raw/main/download/Electroculus.rar)      |Inazuma                 | Gabszap |
-| ![Dendroculus](icons/icon-oculis/Dendroculus.png)   |[Dendroculus](https://github.com/Gabriel4927/json-paradise/raw/main/download/Dendroculus.rar)       |Sumeru                  | Gabszap |
-| ![Hydroculus](icons/icon-oculis/Hydroculus.png)     |[Hydroculus](https://github.com/Gabriel4927/json-paradise/raw/main/download/Hydroculus.rar)        |Fontaine                | Gabszap | 
-| ![Carmesim](icons/icon-oculis/CrimsonAgate.png)     |[Calcedônia Carmesim](https://github.com/Gabriel4927/json-paradise/blob/main/download/CalcedoniaCarmesim.rar) |Espinha do dragão     | Gabszap |
-| ![Lumenspar](icons/icon-oculis/Lumenspar.png)       |[Espato Lúmen](https://github.com/Gabriel4927/json-paradise/raw/main/download/EspatoLumen.rar)      |Despenhadeiro: subterrâneo | Gabszap |
-| ![LumensparOre](icons/icon-oculis/Lumenspar.png)    |[Minério Lúmen](https://github.com/Gabriel4927/json-paradise/raw/main/download/MinerioLumen.rar)[^1] |Despenhadeiro: subterrâneo | Gabszap |
-| ![Chave](icons/icon-oculis/KeySigil.png)            |[Padrões de chave](https://github.com/Gabriel4927/json-paradise/raw/main/download/Padr%C3%B5es%20de%20chave.rar)[^2] | Enkanomiya             | Gabszap |
-| ![Selo](icons/icon-oculis/SacredSeal.png)           |[Selo Sagrado](https://github.com/Gabriel4927/json-paradise/raw/main/download/Selo%20Sagrado.rar)      |Sumeru: Deserto            | Gabszap |
+| ![Anemoculus](icons/icon-oculis/Anemoculus.png)     |[Anemoculus](https://github.com/Gabriel4927/json-paradise/raw/main/download/Anemoculus.rar)        |Mondstadt               | 
+| ![Geoculus](icons/icon-oculis/Geoculus.png)         |[Geoculus](https://github.com/Gabriel4927/json-paradise/raw/main/download/Geoculus.rar)          |Liyue                   | 
+| ![Electroculus](icons/icon-oculis/Electroculus.png) |[Electroculus](https://github.com/Gabriel4927/json-paradise/raw/main/download/Electroculus.rar)      |Inazuma                 | 
+| ![Dendroculus](icons/icon-oculis/Dendroculus.png)   |[Dendroculus](https://github.com/Gabriel4927/json-paradise/raw/main/download/Dendroculus.rar)       |Sumeru                  | 
+| ![Hydroculus](icons/icon-oculis/Hydroculus.png)     |[Hydroculus](https://github.com/Gabriel4927/json-paradise/raw/main/download/Hydroculus.rar)        |Fontaine                |  
+| ![Carmesim](icons/icon-oculis/CrimsonAgate.png)     |[Calcedônia Carmesim](https://github.com/Gabriel4927/json-paradise/blob/main/download/CalcedoniaCarmesim.rar) |Espinha do dragão     | 
+| ![Lumenspar](icons/icon-oculis/Lumenspar.png)       |[Espato Lúmen](https://github.com/Gabriel4927/json-paradise/raw/main/download/EspatoLumen.rar)      |Despenhadeiro: subterrâneo | 
+| ![LumensparOre](icons/icon-oculis/Lumenspar.png)    |[Minério Lúmen](https://github.com/Gabriel4927/json-paradise/raw/main/download/MinerioLumen.rar)[^1] |Despenhadeiro: subterrâneo | 
+| ![Chave](icons/icon-oculis/KeySigil.png)            |[Padrões de chave](https://github.com/Gabriel4927/json-paradise/raw/main/download/Padr%C3%B5es%20de%20chave.rar)[^2] | Enkanomiya             | 
+| ![Selo](icons/icon-oculis/SacredSeal.png)           |[Selo Sagrado](https://github.com/Gabriel4927/json-paradise/raw/main/download/Selo%20Sagrado.rar)      |Sumeru: Deserto            | 
 
 # Especialidades
 > Especialidades estão separadas por região.
@@ -108,66 +108,66 @@ Ultima Atualização:
 
 # Mondstadt
 
-| Icon                                         | Nome              | Região     | Author  |
-| --------------- | -------------------------------------------- | ------------------ | ---------- |
-| ![Cecilia](icons/especialiadades/Cecilia.webp) | [Cecilia](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Cecillia.rar) | Mondstadt | Gabszap |
-| ![Cogumelo](icons/especialiadades/Cogumelo_Philanemo.webp) | [Cogumelo Philanemo](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Cogumelo_Philanemo.rar) | Mondstadt | Gabszap |
-| ![Gancho](icons/especialiadades/Gancho_do_Lobo.webp) | [Gancho do Lobo](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Gancho_do_lobo.rar) | Mondstadt | Gabszap |
-| ![Lampada](icons/especialiadades/Lampada_de_Grama.webp) | [Lampada de Grama](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Lampada_de_grama.rar) | Mondstadt | Gabszap |
-| ![Margarida](icons/especialiadades/Margaridas_Voadoras.webp) | [Margaridas Voadoras](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Margaridas_Voadoras.rar) | Mondstadt | Gabszap |
-| ![Dandelion](icons/especialiadades/Sementes_de_Dandelion.webp) | [Semente de Dandelion](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Sementes_de_dandelion.rar) | Mondstadt | Gabszap |
-| ![Valberry](icons/especialiadades/Valberry.webp) | [Valberry](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Valberry.rar) | Mondstadt | Gabszap |
+| Icon                                         | Nome              | Região     |
+| --------------- | -------------------------------------------- | ------------------ | 
+| ![Cecilia](icons/especialiadades/Cecilia.webp) | [Cecilia](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Cecillia.rar) | Mondstadt | 
+| ![Cogumelo](icons/especialiadades/Cogumelo_Philanemo.webp) | [Cogumelo Philanemo](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Cogumelo_Philanemo.rar) | Mondstadt | 
+| ![Gancho](icons/especialiadades/Gancho_do_Lobo.webp) | [Gancho do Lobo](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Gancho_do_lobo.rar) | Mondstadt | 
+| ![Lampada](icons/especialiadades/Lampada_de_Grama.webp) | [Lampada de Grama](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Lampada_de_grama.rar) | Mondstadt | 
+| ![Margarida](icons/especialiadades/Margaridas_Voadoras.webp) | [Margaridas Voadoras](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Margaridas_Voadoras.rar) | Mondstadt | 
+| ![Dandelion](icons/especialiadades/Sementes_de_Dandelion.webp) | [Semente de Dandelion](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Sementes_de_dandelion.rar) | Mondstadt | 
+| ![Valberry](icons/especialiadades/Valberry.webp) | [Valberry](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Valberry.rar) | Mondstadt | 
 
 # Liyue
 
-| Icon                                         | Nome              | Região   | Author  |
-| --------------- | -------------------------------------------- | ------------------ | -------- |
-| ![Concha](icons/especialiadades/Conchas_Estreladas.webp) | [Concha Estrelada](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Concha_Estrelada.rar) | Liyue | Gabszap |
-| ![Lapis](icons/especialiadades/Cor_Lapis.webp) | [Cor Lapis](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/CorLapis.rar) | Liyue | Gabszap |
-| ![Seda](icons/especialiadades/Flor_de_Seda.webp) | [Flor de Seda](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Flor_de_seda.rar) | Liyue | Gabszap |
-| ![Jade](icons/especialiadades/Jade_Nocticulosa.webp) | [Jade Nocticulosa](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Jade_Nocticulosa.rar) | Liyue | Gabszap |
-| ![Lirio](icons/especialiadades/Lirio_de_Vidro.webp) | [Lirio de Vidro](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Lirio_de_Vidro.rar) | Liyue | Gabszap |
-| ![Pimenta](icons/especialiadades/Pimenta_de_Jueyun.webp) | [Pimenta de Jueyun](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Pimenta_de_Jueyun.rar) | Liyue | Gabszap |
-| ![Qingxin](icons/especialiadades/Qingxin.webp) | [Qingxin](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Qingxin.rar) | Liyue | Gabszap |
-| ![Violeta](icons/especialiadades/Violeta.webp) | [Violeta](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Violeta.rar) | Liyue | Gabszap |
+| Icon                                         | Nome              | Região   |
+| --------------- | -------------------------------------------- | ------------------ |
+| ![Concha](icons/especialiadades/Conchas_Estreladas.webp) | [Concha Estrelada](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Concha_Estrelada.rar) | Liyue | 
+| ![Lapis](icons/especialiadades/Cor_Lapis.webp) | [Cor Lapis](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/CorLapis.rar) | Liyue | 
+| ![Seda](icons/especialiadades/Flor_de_Seda.webp) | [Flor de Seda](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Flor_de_seda.rar) | Liyue | 
+| ![Jade](icons/especialiadades/Jade_Nocticulosa.webp) | [Jade Nocticulosa](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Jade_Nocticulosa.rar) | Liyue | 
+| ![Lirio](icons/especialiadades/Lirio_de_Vidro.webp) | [Lirio de Vidro](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Lirio_de_Vidro.rar) | Liyue | 
+| ![Pimenta](icons/especialiadades/Pimenta_de_Jueyun.webp) | [Pimenta de Jueyun](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Pimenta_de_Jueyun.rar) | Liyue | 
+| ![Qingxin](icons/especialiadades/Qingxin.webp) | [Qingxin](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Qingxin.rar) | Liyue | 
+| ![Violeta](icons/especialiadades/Violeta.webp) | [Violeta](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Violeta.rar) | Liyue | 
 
 # Inazuma
 
-| Icon                                         | Nome              | Região    | Author  |
-| --------------- | -------------------------------------------- | ------------------ | --------- |
-| ![Dendrobio](icons/especialiadades/Dendrobio.webp) | [Dendrobio](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Dendrobium.rar) | Inazuma | Gabszap |
-| ![Erva Naku](icons/especialiadades/Erva_Naku.webp) | [Erva Naku](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Erva_Naku.rar) | Inazuma | Gabszap |
-| ![Fruto Tenkumo](icons/especialiadades/Fruto_Tenkumo.webp) | [Fruto Tenkumo](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Fruto_Tenkumo.rar) | Inazuma | Gabszap |
-| ![Fungo Fluorescente](icons/especialiadades/Fungos_Fluorescentes.webp) | [Fungos Fluorescentes](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Fungo_Fluorescente.rar) | Inazuma | Gabszap |
-| ![Fungo Marítimo](icons/especialiadades/Fungos_Maritimos.webp) | [Fungos Marítimos](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Fungo_Maritimo.rar) | Inazuma | Gabszap |
-| ![Medula de Cristal](icons/especialiadades/Medula_de_Cristal.webp) | [Medula de Cristal](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Medula_de_Cristal.rar) | Inazuma | Gabszap |
-| ![Onikabuto](icons/especialiadades/Onikabuto.webp) | [Onikabuto](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Onikabuto.rar) | Inazuma | Gabszap |
-| ![Pérola Sango](icons/especialiadades/Perola_Sango.webp) | [Pérola Sango](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Perola_Sango.rar) | Inazuma | Gabszap |
-| ![Pétalas da Flor de Sakura](icons/especialiadades/Petalas_da_Flor_de_Sakura.webp) | [Pétalas da Flor de Sakura](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Petalas_de_Sakura.rar) | Inazuma | Gabszap |
+| Icon                                         | Nome              | Região    |
+| --------------- | -------------------------------------------- | ------------------ |
+| ![Dendrobio](icons/especialiadades/Dendrobio.webp) | [Dendrobio](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Dendrobium.rar) | Inazuma | 
+| ![Erva Naku](icons/especialiadades/Erva_Naku.webp) | [Erva Naku](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Erva_Naku.rar) | Inazuma | 
+| ![Fruto Tenkumo](icons/especialiadades/Fruto_Tenkumo.webp) | [Fruto Tenkumo](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Fruto_Tenkumo.rar) | Inazuma | 
+| ![Fungo Fluorescente](icons/especialiadades/Fungos_Fluorescentes.webp) | [Fungos Fluorescentes](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Fungo_Fluorescente.rar) | Inazuma | 
+| ![Fungo Marítimo](icons/especialiadades/Fungos_Maritimos.webp) | [Fungos Marítimos](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Fungo_Maritimo.rar) | Inazuma | 
+| ![Medula de Cristal](icons/especialiadades/Medula_de_Cristal.webp) | [Medula de Cristal](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Medula_de_Cristal.rar) | Inazuma | 
+| ![Onikabuto](icons/especialiadades/Onikabuto.webp) | [Onikabuto](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Onikabuto.rar) | Inazuma | 
+| ![Pérola Sango](icons/especialiadades/Perola_Sango.webp) | [Pérola Sango](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Perola_Sango.rar) | Inazuma | 
+| ![Pétalas da Flor de Sakura](icons/especialiadades/Petalas_da_Flor_de_Sakura.webp) | [Pétalas da Flor de Sakura](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Petalas_de_Sakura.rar) | Inazuma | 
 
 # Sumeru
 
-| Icon                                         | Nome              | Região  | Author  |
-| --------------- | -------------------------------------------- | ------------------ | ------- |
-| ![Baga de espinheiro](icons/especialiadades/Baga_de_Espinheiro.webp) | [Baga de espinheiro](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Baga_de_Espinheiro.rar) | Sumeru | Gabszap |
-| ![Escaravelho dourado](icons/especialiadades/Escaravelho_Dourado.webp) | [Escaravelho dourado](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Escaravelho.rar) | Sumeru | Gabszap |
-| ![Flor do luto](icons/especialiadades/Flor_do_Luto.webp) | [Flor do luto](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Flor_do_Luto.rar) | Sumeru | Gabszap |
-| ![Gordura de pupa de areia](icons/especialiadades/Gordura_de_Pupa_de_Areia.webp) | [Gordura de pupa de areia](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Gordura_de_pupa_de_areia.rar) | Sumeru | Gabszap |
-| ![Lotus kalpalata](icons/especialiadades/Lotus_Kalpalata.webp) | [Lotus kalpalata](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Lotus_Kalpalata.rar) | Sumeru | Gabszap |
-| ![Lotus nilotpala](icons/especialiadades/Lotus_Nilotpala.webp) | [Lotus nilotpala](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Lotus_Nilotpala.rar) | Sumeru | Gabszap |
-| ![Padirasah](icons/especialiadades/Padisarah.webp) | [Padirasah](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Padisarah.rar) | Sumeru | Gabszap |
+| Icon                                         | Nome              | Região  |
+| --------------- | -------------------------------------------- | ------------------ |
+| ![Baga de espinheiro](icons/especialiadades/Baga_de_Espinheiro.webp) | [Baga de espinheiro](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Baga_de_Espinheiro.rar) | Sumeru | 
+| ![Escaravelho dourado](icons/especialiadades/Escaravelho_Dourado.webp) | [Escaravelho dourado](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Escaravelho.rar) | Sumeru | 
+| ![Flor do luto](icons/especialiadades/Flor_do_Luto.webp) | [Flor do luto](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Flor_do_Luto.rar) | Sumeru | 
+| ![Gordura de pupa de areia](icons/especialiadades/Gordura_de_Pupa_de_Areia.webp) | [Gordura de pupa de areia](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Gordura_de_pupa_de_areia.rar) | Sumeru | 
+| ![Lotus kalpalata](icons/especialiadades/Lotus_Kalpalata.webp) | [Lotus kalpalata](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Lotus_Kalpalata.rar) | Sumeru | 
+| ![Lotus nilotpala](icons/especialiadades/Lotus_Nilotpala.webp) | [Lotus nilotpala](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Lotus_Nilotpala.rar) | Sumeru | 
+| ![Padirasah](icons/especialiadades/Padisarah.webp) | [Padirasah](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Padisarah.rar) | Sumeru | 
 
 # Fontaine
 > Atualmente só tem essas especialidades.
 
-| Icon                                         | Nome              | Região   | Author  |
-| --------------- | -------------------------------------------- | ------------------ | -------- |
-| ![Flor](icons/especialiadades/Romaritime_Flower.webp) | [Flor Rociomarinha](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Flor_Rociomarinha.rar) | Fontaine | Gabszap |
-| ![Lumidoce](icons/especialiadades/LUmidouce_Bell.webp) | [Campânula Lumidouce](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Campanula_Lumidouce.rar) | Fontaine | Gabszap |
-| ![Rosa](icons/especialiadades/Rainbow_Rose.webp) | [Rosa Arco-Iris](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Rosa_ArcoIris.rar) | Fontaine | Gabszap |
-| ![Lumitoile](icons/especialiadades/Lumitoile.webp) | [Lumitoile](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Lumitoile.rar) | Fontaine | Gabszap |
-| ![unidade](icons/especialiadades/Subdetection_Unit.webp) | [Unidade de Subdetecção](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Unidade_de_Subdetecção.rar) | Fontaine | Gabszap |
-| ![Furina](icons/especialiadades/Flordaluzdolago.webp) | [Flor da Luz do Lago](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/FlorDaLuzDoLago.rar) | Fontaine | Gabszap
+| Icon                                         | Nome              | Região   |
+| --------------- | -------------------------------------------- | ------------------ |
+| ![Flor](icons/especialiadades/Romaritime_Flower.webp) | [Flor Rociomarinha](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Flor_Rociomarinha.rar) | Fontaine | 
+| ![Lumidoce](icons/especialiadades/LUmidouce_Bell.webp) | [Campânula Lumidouce](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Campanula_Lumidouce.rar) | Fontaine | 
+| ![Rosa](icons/especialiadades/Rainbow_Rose.webp) | [Rosa Arco-Iris](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Rosa_ArcoIris.rar) | Fontaine | 
+| ![Lumitoile](icons/especialiadades/Lumitoile.webp) | [Lumitoile](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Lumitoile.rar) | Fontaine | 
+| ![unidade](icons/especialiadades/Subdetection_Unit.webp) | [Unidade de Subdetecção](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Unidade_de_Subdetecção.rar) | Fontaine | 
+| ![Furina](icons/especialiadades/Flordaluzdolago.webp) | [Flor da Luz do Lago](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/FlorDaLuzDoLago.rar) | Fontaine |
 
 [^1]: Minério Lúmen é usado para upar o nivel da lanterna.
 [^2]: Já ter feito todas as missões de enkanomiya antes de ir atras dos padrões de chave. Onde usar os padrões de chave: https://youtu.be/_ES5BTwIp_M?si=IapwxOCtptDzCO-A
