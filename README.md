@@ -49,16 +49,16 @@ Ultima Atualização:
 # Baus
 | Icon                  | Nome                 |    
 | ---------- | ----------------------------------- | 
-| ![Bau](assets/CommonChest.png)      | [Mondstadt]()| 
-| ![Bau](assets/CommonChest.png)      | [Liyue]()| 
-| ![Bau](assets/CommonChest.png)      | [Inazuma]()| 
-| ![Bau](assets/CommonChest.png)      | [Sumeru]()| 
-| ![Bau](assets/CommonChest.png)      | [Fontaine 4.0-4.3]()| 
-| ![Bau](assets/CommonChest.png)      | [Enkanomiya]()| 
-| ![Bau](assets/CommonChest.png)      | [Espinha do Dragão]()| 
-| ![Bau](assets/CommonChest.png)      | [Despenhadeiro]()| 
-| ![Bau](assets/CommonChest.png)      | [Despenhadeiro Subterraneo]()|
-| ![Bau](assets/CommonChest.png)      | [Vale Chenyu]() |
+| ![Bau](assets/CommonChest.png)      | [Mondstadt](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Mondstadt.rar?raw=true)| 
+| ![Bau](assets/CommonChest.png)      | [Liyue](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Liyue.rar?raw=true)| 
+| ![Bau](assets/CommonChest.png)      | [Inazuma](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Inazuma.rar?raw=true)| 
+| ![Bau](assets/CommonChest.png)      | [Sumeru](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Sumeru.rar?raw=true)| 
+| ![Bau](assets/CommonChest.png)      | [Fontaine 4.0-4.3](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Fontaine%204.0-4.3.rar?raw=true)| 
+| ![Bau](assets/CommonChest.png)      | [Enkanomiya](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Enkanomiya%20(desbloquear%20primeiro).rar?raw=true)| 
+| ![Bau](assets/CommonChest.png)      | [Espinha do Dragão](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Exploracao/Dragonspine.rar?raw=true)| 
+| ![Bau](assets/CommonChest.png)      | [Despenhadeiro](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Exploracao/Despenhadeiro.rar?raw=true)| 
+| ![Bau](assets/CommonChest.png)      | [Despenhadeiro Subterraneo](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Minas%20subterraneas%20(despenhadeiro).rar?raw=true)|
+| ![Bau](assets/CommonChest.png)      | [Vale Chenyu](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Vale%20Chenyu.rar?raw=true) |
 
 
 
