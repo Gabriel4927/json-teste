@@ -58,7 +58,7 @@ Ultima Atualização:
 | ![Bau](assets/CommonChest.png)      | [Espinha do Dragão](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Dragonspine.rar?raw=true)| 
 | ![Bau](assets/CommonChest.png)      | [Despenhadeiro](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Despenhadeiro.rar?raw=true)| 
 | ![Bau](assets/CommonChest.png)      | [Despenhadeiro Subterraneo](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Minas%20subterraneas%20(despenhadeiro).rar?raw=true)|
-| ![Bau](assets/CommonChest.png)      | [Vale Chenyu]()
+| ![Bau](assets/CommonChest.png)      | [Vale Chenyu](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Vale%20Chenyu.rar?raw=true)
 
 
 
