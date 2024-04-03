@@ -55,8 +55,8 @@ Ultima Atualização:
 | ![Bau](assets/CommonChest.png)      | [Sumeru](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Sumeru.rar?raw=true)| 
 | ![Bau](assets/CommonChest.png)      | [Fontaine 4.0-4.3](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Fontaine%204.0-4.3.rar?raw=true)| 
 | ![Bau](assets/CommonChest.png)      | [Enkanomiya](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Enkanomiya%20(desbloquear%20primeiro).rar?raw=true)| 
-| ![Bau](assets/CommonChest.png)      | [Espinha do Dragão](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Exploracao/Dragonspine.rar?raw=true)| 
-| ![Bau](assets/CommonChest.png)      | [Despenhadeiro](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Exploracao/Despenhadeiro.rar?raw=true)| 
+| ![Bau](assets/CommonChest.png)      | [Espinha do Dragão](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Dragonspine.rar?raw=true)| 
+| ![Bau](assets/CommonChest.png)      | [Despenhadeiro](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Despenhadeiro.rar?raw=true)| 
 | ![Bau](assets/CommonChest.png)      | [Despenhadeiro Subterraneo](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Minas%20subterraneas%20(despenhadeiro).rar?raw=true)|
 | ![Bau](assets/CommonChest.png)      | [Vale Chenyu](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Vale%20Chenyu.rar?raw=true) |
 
