@@ -75,16 +75,16 @@ Ultima Atualização:
 
 | Icon                                             | Nome               | Região          |
 | ---------- | ----------------------------------------------------- | --------------------- |
-| ![Anemoculus](assets/Anemoculus.png)     |[Anemoculus](https://github.com/Gabriel4927/json-paradise/raw/main/download/Anemoculus.rar)        |Mondstadt               | 
-| ![Geoculus](assets/Geoculus.png)         |[Geoculus](https://github.com/Gabriel4927/json-paradise/raw/main/download/Geoculus.rar)          |Liyue                   | 
-| ![Electroculus](assets/Electroculus.png) |[Electroculus](https://github.com/Gabriel4927/json-paradise/raw/main/download/Electroculus.rar)      |Inazuma                 | 
-| ![Dendroculus](assets/Dendroculus.png)   |[Dendroculus](https://github.com/Gabriel4927/json-paradise/raw/main/download/Dendroculus.rar)       |Sumeru                  | 
-| ![Hydroculus](assets/Hydroculus.png)     |[Hydroculus](https://github.com/Gabriel4927/json-paradise/raw/main/download/Hydroculus.rar)        |Fontaine                |  
-| ![Carmesim](assets/CrimsonAgate.png)     |[Calcedônia Carmesim](https://github.com/Gabriel4927/json-paradise/blob/main/download/CalcedoniaCarmesim.rar) |Espinha do dragão     | 
-| ![Lumenspar](assets/Lumenspar.png)       |[Espato Lúmen](https://github.com/Gabriel4927/json-paradise/raw/main/download/EspatoLumen.rar)      |Despenhadeiro: subterrâneo | 
-| ![LumensparOre](assets/Lumenspar.png)    |[Minério Lúmen](https://github.com/Gabriel4927/json-paradise/raw/main/download/MinerioLumen.rar)[^1] |Despenhadeiro: subterrâneo | 
-| ![Chave](assets/KeySigil.png)            |[Padrões de chave](https://github.com/Gabriel4927/json-paradise/raw/main/download/Padr%C3%B5es%20de%20chave.rar)[^2] | Enkanomiya             | 
-| ![Selo](assets/SacredSeal.png)           |[Selo Sagrado](https://github.com/Gabriel4927/json-paradise/raw/main/download/Selo%20Sagrado.rar)      |Sumeru: Deserto            | 
+| ![Anemoculus](assets/Anemoculus.png)     |[Anemoculus](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Anemoculus.rar)        |Mondstadt               | 
+| ![Geoculus](assets/Geoculus.png)         |[Geoculus](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Geoculus.rar)          |Liyue                   | 
+| ![Electroculus](assets/Electroculus.png) |[Electroculus](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Electroculus.rar)      |Inazuma                 | 
+| ![Dendroculus](assets/Dendroculus.png)   |[Dendroculus](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Dendroculus.rar)       |Sumeru                  | 
+| ![Hydroculus](assets/Hydroculus.png)     |[Hydroculus](https://raw.githubusercontent.com/Gabriel4927/json-paradise/raw/main/download/Hydroculus.rar)        |Fontaine                |  
+| ![Carmesim](assets/CrimsonAgate.png)     |[Calcedônia Carmesim](https://raw.githubusercontent.com/Gabriel4927/json-paradise/blob/main/download/CalcedoniaCarmesim.rar) |Espinha do dragão     | 
+| ![Lumenspar](assets/Lumenspar.png)       |[Espato Lúmen](https://raw.githubusercontent.com/Gabriel4927/json-paradise/raw/main/download/EspatoLumen.rar)      |Despenhadeiro: subterrâneo | 
+| ![LumensparOre](assets/Lumenspar.png)    |[Minério Lúmen](https://raw.githubusercontent.com/Gabriel4927/json-paradise/raw/main/download/MinerioLumen.rar)[^1] |Despenhadeiro: subterrâneo | 
+| ![Chave](assets/KeySigil.png)            |[Padrões de chave](https://raw.githubusercontent.com/Gabriel4927/json-paradise/raw/main/download/Padr%C3%B5es%20de%20chave.rar)[^2] | Enkanomiya             | 
+| ![Selo](assets/SacredSeal.png)           |[Selo Sagrado](https://raw.githubusercontent.com/Gabriel4927/json-paradise/raw/main/download/Selo%20Sagrado.rar)      |Sumeru: Deserto            | 
 
 # Especialidades
 > Especialidades estão separadas por região.
