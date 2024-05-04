@@ -10,11 +10,6 @@ Ultima Atualização:
 ## Sumário
 > Sumário com todos os topicos neste post.
 
-- [**Como baixar?**](#como-baixar)
-  - [Baixar arquivos individuais](#baixar-arquivos-individuais)
-  - [Baixar diretório completo](#baixar-diretório-completo)
-  - [Como procurar na pagina?](#como-procurar-na-pagina)
-  - [Como usar os tp](#como-usar-os-tps)
 - [**Exploração**](#exploração)
   - [Baus](#baus)
   - texto
@@ -22,19 +17,6 @@ Ultima Atualização:
 - [**Farming**](#farming)
   - [Oculis](#oculis)
   - [Especialidades](#especialidades)
-
-
-# Como baixar?
-> /
-
-# Baixar arquivos individuais
-> /
-
-# Baixar diretório completo
-> /
-
-# Como usar os TPs?
-> /
 
 # Como procurar na pagina?
 > Pressione "CTRL + F" e digite na caixa oque você quer
@@ -53,7 +35,7 @@ Ultima Atualização:
 | ![Bau](assets/CommonChest.png)      | [Liyue](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Liyue.rar?raw=true)| 
 | ![Bau](assets/CommonChest.png)      | [Inazuma](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Inazuma.rar?raw=true)| 
 | ![Bau](assets/CommonChest.png)      | [Sumeru](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Sumeru.rar?raw=true)| 
-| ![Bau](assets/CommonChest.png)      | [Fontaine 4.0-4.3](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Fontaine%204.0-4.3.rar?raw=true)| 
+| ![Bau](assets/CommonChest.png)      | [Fontaine 4.0-4.6](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Fontaine%204.0-4.6.rar?raw=true)| 
 | ![Bau](assets/CommonChest.png)      | [Enkanomiya](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Enkanomiya%20(desbloquear%20primeiro).rar?raw=true)| 
 | ![Bau](assets/CommonChest.png)      | [Espinha do Dragão](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Dragonspine.rar?raw=true)| 
 | ![Bau](assets/CommonChest.png)      | [Despenhadeiro](https://raw.githubusercontent.com/gabszap/json-beta/main/download/Despenhadeiro.rar?raw=true)| 
@@ -160,7 +142,6 @@ Ultima Atualização:
 | ![Padirasah](assets/especialiadades/Padisarah.webp) | [Padirasah](https://github.com/Gabriel4927/json-paradise/raw/main/download/Especialidades/Padisarah.rar) | Sumeru | 
 
 # Fontaine
-> Atualmente só tem essas especialidades.
 
 | Icon                                         | Nome              | Região   |
 | --------------- | -------------------------------------------- | ------------------ |
